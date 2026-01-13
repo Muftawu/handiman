@@ -147,9 +147,10 @@ const Footer = () => {
                                 height={22}
                                 className='text-lightgrey'
                             />
-                            <Link href='mailto:alimeyawui@yahoo.com'>
+                            <Link href='/'>
                                 <p className='lowercase text-base font-normal text-offwhite hover:text-primary dark:hover:text-primary'>
-                                    alimeyawui@yahoo.com
+                                    alimeyawui@yahoo.com <br></br>
+                                    mohammedyiwere@gmail.com
                                 </p>
                             </Link>
                         </div>
