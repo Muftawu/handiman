@@ -15,9 +15,6 @@ const HeroData: HeroType[] = [
         imgSrc: '/images/banner/b1.jpg',
     },
     {
-        imgSrc: '/images/banner/b2.svg',
-    },
-    {
         imgSrc: '/images/banner/b3.jpg',
     },
 

@@ -69,7 +69,7 @@ const Hero = () => {
                             <div>
                                 <Slider {...settings} vertical={false}>
                                     {loading
-                                        ? Array.from({ length: 3 }).map((_, i) => (
+                                        ? Array.from({ length: 2 }).map((_, i) => (
                                             <HeroSkeleton key={i} />
                                         ))
                                         : heroimg.map((item, i) => (
